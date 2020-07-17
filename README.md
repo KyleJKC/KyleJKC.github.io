@@ -1,7 +1,9 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 欢迎来到KyleJKC的博客！
+tagline: 持续探索，永不停息
+sidebar: false
+sidebarDepth: 2
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
